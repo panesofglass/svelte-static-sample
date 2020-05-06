@@ -1,7 +1,10 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "panes-of-glass",
+  "description": "Panes of Glass Svelte / Sapper Sample",
   "version": "0.0.1",
+  "repository": "https://github.com/panesofglass/svelte-static-sample",
+  "license": "UNLICENSED",
+  "private": true,
   "scripts": {
     "dev": "sapper dev",
     "build": "sapper build --legacy",
